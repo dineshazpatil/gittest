@@ -12,3 +12,5 @@ git restore --staged
 
 git restore commitid
 
+git added new from github portal
+
