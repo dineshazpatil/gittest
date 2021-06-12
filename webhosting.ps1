@@ -1,0 +1,1 @@
+# This is script file for the webshoting dsc config
